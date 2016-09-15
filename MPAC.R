@@ -15,24 +15,3 @@ data<-read.csv("validate-vars.txt", colClasses=column_classes)
 #Cross tabs
 #Validate variables
 #Summing by ID
-sjvklwjfklfj;jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJL
-FJQWJLKAJFLK;JF';jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJad
-
-Fj;jk;ljkj;lk
-jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJadfj;jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJL
-FJQWJLKAJFLK;JF';jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJad
-
-Fj;jk;ljkj;lk
-jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJadfj;jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJL
-FJQWJLKAJFLK;JF';jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJad
-
-Fj;jk;ljkj;lk
-jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJadfj;jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJL
-FJQWJLKAJFLK;JF';jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJad
-
-Fj;jk;ljkj;lk
-jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJadfj;jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJL
-FJQWJLKAJFLK;JF';jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJad
-
-Fj;jk;ljkj;lk
-jkljkjsdlkdjvkljfdaksdfjaWPOITEHTFJLDFKJad
