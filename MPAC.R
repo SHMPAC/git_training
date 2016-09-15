@@ -14,4 +14,10 @@ data<-read.csv("validate-vars.txt", colClasses=column_classes)
 #Compare means
 #Cross tabs
 #Validate variables
+
+
 #Summing by ID
+
+# sum the "TotalCost" column for each "ID" column
+# http://stackoverflow.com/questions/10180132/consolidate-duplicate-rows
+aggdata<-aggregate(data["TotalCost"],by=data["ID"],sum)
